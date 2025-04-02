@@ -2,10 +2,14 @@
 
 > **A Theoretical Framework for Analyzing Recursive Self-Improvement Patterns in Transformer Architectures**
 
+<div align="center">
+
+
 [![Safety Verified](https://img.shields.io/badge/Safety-Verified-brightgreen)](https://echelon-labs.ai/safety-verification)
 [![License: RSRL](https://img.shields.io/badge/License-RSRL-blue)](LICENSE)
 [![Containment Status](https://img.shields.io/badge/Containment-Active-brightgreen)](https://echelon-labs.ai/containment-protocols)
 [![Alignment Audit](https://img.shields.io/badge/Alignment-Audited-brightgreen)](https://echelon-labs.ai/alignment-audit)
+</div>
 
 ## 🧭 Mission
 
