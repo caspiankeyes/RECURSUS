@@ -1,6 +1,4 @@
-# RECURSUS
-
-> **A Theoretical Framework for Analyzing Recursive Self-Improvement Patterns in Transformer Architectures**
+> **RECURSUS: A Theoretical Framework for Analyzing Recursive Self-Improvement Patterns in Transformer Architectures**
 
 <div align="center">
 
